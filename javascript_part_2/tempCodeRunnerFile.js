@@ -1,0 +1,1 @@
+alert("hey dont open porn sites here ");
